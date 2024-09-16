@@ -15,11 +15,12 @@
 - The app will run on `http://localhost:8000` by default
 - The Postman collection is added under `Prerequisites` folder
 
-# Used Versions
+# Used Main Technologies
 
-PHP 8.2
-Laravel 10
-MYSQL
+- Laravel 10
+- PHP 8.2
+- MYSQL
+- PHPUnit Test
 
 # Sample Credentials
 

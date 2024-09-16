@@ -12,7 +12,7 @@
                 <div class="col-auto">
                     <input type="text" name="search" value="{{ old('search', $search) }}" class="form-control" placeholder="Search by name">
                 </div>
-                <div class="col-auto">
+                <div class="col-auto mt-3">
                     <button type="submit" class="btn btn-secondary">Search</button>
                 </div>
             </div>
